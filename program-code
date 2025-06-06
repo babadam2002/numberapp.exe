@@ -10,7 +10,7 @@ import keyboard  # Billentyűfigyeléshez
 
 # --- Konfiguráció ---
 JELSZO = "Zora2002"
-ONEDRIVE_STATE_URL = "https://my.microsoftpersonalcontent.com/personal/13173f401fa026f6/_layouts/15/download.aspx?UniqueId=852ab4b1-f455-48b3-a476-a64b87f58a43&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiIyYTBlZTU2Ni1iYjg3LTQ3ZDktYjdlOC1jZGQ3ODZlYzIyZDUiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3NDkwNzU0MTQifQ.Y4PuoY1lmn_VQtD_jaqQQATtOycmjOjfTyGUNg-tHzYpWuD9VYFoywUbBH1WfkfMqSmjI0fwBrWtOH7N2JPrim5TZNDVkSAltJ4v08SdDEKtx0FWv9HFANMJSaGJ3yc7F-XZMs3bRxrzE8YOoLV682c_hsEk3C8YttTft-VapIad6zNErbR36ggvBKwnze0APSwNXMSPjsIjy67vbt5LDpJLhDYYDs0NKroE-yuIb9YwkjvO97Ke7oAZNzZPu0AgN81_tDfN5i0KXj70FA4vhOCZsUdYNR5tXATI02rwEAyqT3WB9TTRxO5VzvXlqSQuhkFIENai49LJsv-3KhsIDgZrn_9M232JpHgrjI5HDPYqEtjmSEDYpDepxVbuch6pkzY5kZafua3JzXs_XYuA4w.-etIVgajv0uVQUyXjAvG0ouZTjhkQqthvdseljlGvvs&ApiVersion=2.0&AVOverride=1"  # <- Cseréld ki!
+ONEDRIVE_STATE_URL = "https://raw.githubusercontent.com/babadam2002/numberapp.exe/refs/heads/main/engedely?token=GHSAT0AAAAAADD64UAN7JLMGBPSHA7YGOF62CDCAUQ"  # <- Cseréld ki!
 
 # --- Globális állapotok ---
 generalas_aktiv = True
