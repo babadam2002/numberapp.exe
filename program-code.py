@@ -98,7 +98,7 @@ def toggle_generalas():
 def ctrl_toggle_autoklikker():
     global autoklikker_aktiv
     while True:
-        keyboard.wait('ctrl')
+        keyboard.wait('ctrl + b')
         autoklikker_aktiv = not autoklikker_aktiv
         print(f"Auto-klikker {'bekapcsolva' if autoklikker_aktiv else 'kikapcsolva'}")
         time.sleep(0.3)
