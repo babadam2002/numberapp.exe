@@ -10,7 +10,7 @@ import keyboard  # Billentyűfigyeléshez
 
 # --- Konfiguráció ---
 JELSZO = "Zora2002"
-ONEDRIVE_STATE_URL = "engedely.py"  # <- Cseréld ki!
+ONEDRIVE_STATE_URL = "https://raw.githubusercontent.com/babadam2002/numberapp.exe/main/engedely.py"  # <- Cseréld ki!
 
 # --- Globális állapotok ---
 generalas_aktiv = True
